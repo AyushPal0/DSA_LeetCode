@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AyushPal0/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/AyushPal0/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1095-find-in-mountain-array](https://github.com/AyushPal0/DSA_LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AyushPal0/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/AyushPal0/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1095-find-in-mountain-array](https://github.com/AyushPal0/DSA_LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
@@ -19,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/AyushPal0/DSA_LeetCode/tree/master/1095-find-in-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AyushPal0/DSA_LeetCode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AyushPal0/DSA_LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AyushPal0/DSA_LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AyushPal0/DSA_LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
